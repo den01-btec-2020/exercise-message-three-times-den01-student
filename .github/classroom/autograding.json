@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Tests committed solution",
+      "name": "Test committed solution",
       "setup": "sudo -H pip3 install pytest",
       "run": "python3 -m pytest",
       "input": "",
